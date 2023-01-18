@@ -1,2 +1,2 @@
 # microservice-config
-Microservice configuration
+Central repository configurations for Dewacoding Microservices
